@@ -16,7 +16,7 @@ In the existing **m-riho/m-riho.github.io** user-site repository, put this direc
 
 Edit the three articles in the Related Publications section of the index. Check titles, bibliographic information and destinations against publisher records. The ADADA journal record gives 2024, 28(4), 80–86, and the JGG record includes a subtitle. These take precedence over the shorter or older citations on the project brief.
 
-Edit the numbered items in the questionnaire HTML. Keep the English question, response format, source locator, and any CT label distinct. JGG §§5.1–5.4 supply Q1–Q6 and Q15–Q17. For Q7–Q14 and Q18 the exact wording is from the supplied JIP manuscript, Appendix A.1; JGG documents the CT mapping (Table 2) and autumn-only administration of Q18 (§4). Do not describe the wording of these nine items as a verbatim JGG transcript. JIP lists an extra Q4 option; the page distinguishes it from the four JGG options. The five-point endpoints and neutral midpoint are documented; the intermediate labels are explanatory. Do not substitute themes, responses or results for questions.
+Edit the numbered items in the questionnaire HTML. Keep the English question, response format, source locator, and any CT label distinct. JGG §§5.1–5.4 supply Q1–Q3, Q5–Q6 and Q15–Q17. Q4 uses the question, multiple-answer format and all five options from JIP Appendix A.1.2. For Q7–Q14 and Q18 the exact wording is from the supplied JIP manuscript, Appendix A.1; JGG documents the CT mapping (Table 2) and autumn-only administration of Q18 (§4). Do not describe the wording of these nine items as a verbatim JGG transcript. The five-point endpoints and neutral midpoint are documented; the intermediate labels are explanatory. Do not substitute themes, responses or results for questions.
 
 ## Regenerating the PDF
 
@@ -26,7 +26,7 @@ Open the local questionnaire HTML in Chrome or Chromium, print, and choose **Sav
 chromium --headless --no-pdf-header-footer --print-to-pdf="$PWD/questionnaire.pdf" "file://$PWD/questionnaire.html"
 ```
 
-Use your installed Chrome executable in place of `chromium`. Check that the PDF contains Q1–Q18 in order, the response formats, Q4 choices and variant, Q18 semester note, scale and both citations.
+Use your installed Chrome executable in place of `chromium`. Check that the PDF contains Q1–Q18 in order, the response formats, all five Q4 choices, Q18 semester note, scale and both citations.
 
 ## Regenerating and placing the QR code
 
