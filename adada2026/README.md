@@ -1,6 +1,6 @@
 # ADADA 2026 poster materials
 
-A small English-language companion to the poster by Hisashi Sato and Kunio Kondo. Visitors can read the preliminary study, find the three publisher records, and read or download the classroom questionnaire. There is no data collection, JavaScript, external font, or build step.
+A small English-language companion to the poster by Hisashi Sato and Kunio Kondo. Visitors can read the preliminary study, find the four publisher records, and read or download the classroom questionnaire. There is no data collection, JavaScript, external font, or build step.
 
 ## Files and publishing
 
@@ -14,7 +14,7 @@ In the existing **m-riho/m-riho.github.io** user-site repository, put this direc
 
 ## Updating content
 
-Edit the three articles in the Related Publications section of the index. Check titles, bibliographic information and destinations against publisher records. The ADADA journal record gives 2024, 28(4), 80–86, and the JGG record includes a subtitle. These take precedence over the shorter or older citations on the project brief.
+Edit the four articles in the Related Publications section of the index. Check titles, bibliographic information and destinations against publisher records. The ADADA journal record gives 2024, 28(4), 80–86, and the JGG record includes a subtitle. These take precedence over the shorter or older citations on the project brief.
 
 Edit the numbered items in the questionnaire HTML. Keep the English question, response format, source locator, and any CT label distinct. JGG §§5.1–5.4 supply Q1–Q3, Q5–Q6 and Q15–Q17. Q4 uses the question, multiple-answer format and all five options from JIP Appendix A.1.2. For Q7–Q14 and Q18 the exact wording is from the supplied JIP manuscript, Appendix A.1; JGG documents the CT mapping (Table 2) and autumn-only administration of Q18 (§4). Do not describe the wording of these nine items as a verbatim JGG transcript. The five-point endpoints and neutral midpoint are documented; the intermediate labels are explanatory. Do not substitute themes, responses or results for questions.
 
