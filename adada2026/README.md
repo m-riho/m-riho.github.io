@@ -5,6 +5,7 @@ A small English-language companion to the poster by Hisashi Sato and Kunio Kondo
 ## Files and publishing
 
 - `index.html`: study, participants, findings, papers and contacts.
+- `adada2026-poster.pdf`: the A0, one-page conference poster. After rebuilding the poster, copy `poster/adada2026-poster/build/adada2026-poster.pdf` to this file and publish it with the site.
 - `questionnaire.html`: the source of truth for the English item guide.
 - `questionnaire.pdf`: the same guide in print layout.
 - `assets/style.css`: screen and A4 print styles. `assets/contours.svg` is a decorative mathematical illustration, not student work.
